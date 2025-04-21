@@ -44,24 +44,6 @@ python calculodehoras.py
 5. Clique em Calcular para obter os resultados.
 6. Clique em Exportar PDF para salvar o relatório.
 
-🧮 Exemplo de Cálculo
-
-Entrada	                                Valor
-Salário Base	                          R$ 3000,00
-Carga Horária	                          220 horas
-Horas Trabalhadas	                      190 horas
-Insalubridade                           Grau 2	✔️
-Periculosidade	                        ✔️
-Vale Transporte	                        ✔️
-
-Resultado esperado:
-
-Valor Hora: R$ 13.63
-Desconto: R$ 408.90
-INSS: R$ 240.00
-Adicionais: R$ 1217.20
-Salário Líquido: R$ 3568.30
-
 📄 Exportação em PDF
 O PDF será gerado no mesmo diretório do programa, com o nome:
 
