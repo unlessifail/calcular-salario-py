@@ -38,6 +38,7 @@ Vale-transporte: 6% do salário base (opcional via botão)
 
 🖼️ Interface
 
+![image](https://github.com/user-attachments/assets/f24ca866-a298-4ffc-9cff-0776ebc5d92a)
 
 📦 Requisitos
 Python 3.8+
