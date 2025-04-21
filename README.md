@@ -39,40 +39,34 @@ Vale-transporte: 6% do salário base (opcional via botão)
 
 📦 Requisitos
 Python 3.8+
-
 customtkinter
-
 reportlab
 
 Instale as dependências com:
 
-bash
-Copiar
-Editar
 pip install customtkinter reportlab
+
 🚀 Como Usar
+
 Clone ou baixe este repositório.
 
 Execute o arquivo:
 
-bash
-Copiar
-Editar
 python calculodehoras.py
+
+
 Preencha os campos obrigatórios.
 
 Marque os adicionais desejados (vale-transporte, noturno, etc.).
-
 Clique em Calcular para obter os resultados.
-
 Clique em Exportar PDF para salvar o relatório.
 
 📄 Exportação em PDF
 O arquivo será salvo no mesmo diretório com o nome:
 
-Copiar
-Editar
 relatorio_salarial.pdf
+
+
 🔧 Arquitetura do Código
 Funcionario: classe dataclass com toda a lógica de cálculo.
 
