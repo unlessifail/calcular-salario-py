@@ -45,6 +45,7 @@ python calculodehoras.py
 6. Clique em Exportar PDF para salvar o relatório.
 
 🧮 Exemplo de Cálculo
+
 Entrada	                                Valor
 Salário Base	                          R$ 3000,00
 Carga Horária	                          220 horas
