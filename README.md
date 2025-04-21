@@ -37,7 +37,7 @@ pip install customtkinter reportlab
 1. Clone ou baixe este repositório.
 2. Execute o arquivo:
 
-python nome_do_arquivo.py
+python calculodehoras.py
 
 3. Preencha os campos obrigatórios.
 4. Marque os adicionais desejados (vale-transporte, noturno, etc.).
