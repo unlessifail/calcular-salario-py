@@ -1,4 +1,5 @@
-💼 Cálculo Salarial com Interface Gráfica
+💼 Cálculo Salarial com Interface Gráfica.
+
 Uma aplicação desktop interativa feita em Python + CustomTkinter, projetada para calcular automaticamente o salário líquido de um colaborador com base em múltiplos critérios e adicionais trabalhistas. O resultado pode ser exportado como PDF com um clique.
 
 📌 Funcionalidades
